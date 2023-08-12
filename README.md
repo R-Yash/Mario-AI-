@@ -1,1 +1,1 @@
-# Mario-AI-
+# Mario AI using Open AI gym
